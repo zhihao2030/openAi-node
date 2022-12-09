@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "dependencies": {
+    "chatgpt": "^1.4.0",
+    "koa": "^2.14.0",
+    "koa-router": "^12.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
